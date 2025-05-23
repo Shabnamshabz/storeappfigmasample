@@ -1,0 +1,2 @@
+C:/Users/Asus/StudioProjects/phonestores/phonestore/android/app/.cxx/RelWithDebInfo/5q4c6r6x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Asus/StudioProjects/phonestores/phonestore/android/app/.cxx/RelWithDebInfo/5q4c6r6x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
